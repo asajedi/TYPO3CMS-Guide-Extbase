@@ -13,7 +13,7 @@ oder willst Du etwas völlig Eigenes bauen. Wenn Ihr Euch für etwas völlig Eig
 ViewHelper überhaupt nicht. Bindet in diesem Falle Eure benötigten StyleSheets und JavaScripte selbst ein.
 
 Wenn Ihr allerdings etwas bauen wollt, dass sich an das TYPO3-Design anlehnt und möglichst kompatibel sein soll,
-dann solltet Ihr diesen ViewHelper auf jeden Fall verwendet. Das was damals zu Zeiten von MediumDoc und Co.
+dann solltet Ihr diesen ViewHelper auf jeden Fall verwenden. Das was damals zu Zeiten von MediumDoc und Co.
 eingebunden wurde, benötigt heute nur noch diesen Zweizeiler mit knapp 10 Parametern.
 
 Eigenschaften
@@ -30,7 +30,7 @@ Eigenschaften
 
  - :Property:    pageTitle
    :Datatype:    String
-   :Description: BE-Module werden in einem Frame dargestellt, von daher macht ein Seitentitel wenig sind. Einfach leer lassen
+   :Description: BE-Module werden in einem Frame dargestellt, von daher macht ein Seitentitel wenig Sinn. Einfach leer lassen
    :Standard:    Leerer String
    :Mandatory:   Nein
 
